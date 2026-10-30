@@ -17,6 +17,6 @@
     <p>9. Captions are either very small or clash with the background, leading to difficulty reading them</p>
     <p>10. Too much text with too little explanation</p>
     <a href='https://thebiguglywebsite.com/'>Bad website</a> <br>
-    <a href='https://github.com/chrisjbaria/IT101-Homework3'>Home page</a>
+    <a href='https://chrisjbaria.github.io/IT101-Homework3/'>Home page</a>
   </body>
 </html>
