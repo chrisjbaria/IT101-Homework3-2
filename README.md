@@ -7,6 +7,6 @@
   <body>
     <h1>What makes this a bad website?</h1>
     <a href='https://github.com/chrisjbaria/IT101-Homework3'>Home page</a>
-    <a href=''>Bad website</a>
+    <a href='https://thebiguglywebsite.com/'>Bad website</a>
   </body>
 </html>
